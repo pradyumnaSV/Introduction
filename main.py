@@ -11,3 +11,5 @@ print(calculator.y)
 
 
 
+print(calculator.x)
+print(calculator.y)
